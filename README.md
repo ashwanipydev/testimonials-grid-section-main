@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/ashwanipydev/testimonials-grid-section-main/)
+- Live Site URL: [](https://ashwanipydev.github.io/testimonials-grid-section-main/)
 
 ## Built with
 
